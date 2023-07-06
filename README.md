@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Juan Felipe Restrepo Buitrago 👋</h1>
 
+[![](https://visitcount.itsvg.in/api?id=JuanFelipeRestrepoBuitrago&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 # About me
+<img align="right" alt="coding" width="180" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></img>
 - My name is Juan Felipe Restrepo Buitrago.
 - I like to be called Pipe.
 - I'm from Medellín, Colombia ![](https://github.com/yammadev/flag-icons/blob/master/png/CO.png).
@@ -31,12 +34,8 @@ This is a list of the tools and technologies that I have learned and used in my 
 
 ![Juan Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFelipeRestrepoBuitrago&show_icons=true&theme=cobalt&rank_icon=github)
 
-[![Pipe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PipeRtpo04&theme=cobalt)](https://wakatime.com/@PipeRtpo04)
+![Pipe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PipeRtpo04&theme=cobalt)
 
 ![Juan Felipe's GitHub Total Stats](https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipeRestrepoBuitrago&theme=cobalt&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipeRestrepoBuitrago&theme=cobalt&langs_count=6&layout=pie)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=JuanFelipeRestrepoBuitrago&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
