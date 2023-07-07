@@ -34,7 +34,7 @@ This is a list of the tools and technologies that I have learned and used in my 
 
 ![Juan Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFelipeRestrepoBuitrago&show_icons=true&theme=cobalt&rank_icon=github)
 
-![Pipe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PipeRtpo04&theme=cobalt)
+[![Pipe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PipeRtpo04&theme=cobalt)](https://wakatime.com/@PipeRtpo04)
 
 ![Juan Felipe's GitHub Total Stats](https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipeRestrepoBuitrago&theme=cobalt&hide_border=false)
 
