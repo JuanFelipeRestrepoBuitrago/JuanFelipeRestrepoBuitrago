@@ -7,7 +7,7 @@
 - My name is Juan Felipe Restrepo Buitrago.
 - I like to be called Pipe.
 - I'm from Medellín, Colombia ![](https://github.com/yammadev/flag-icons/blob/master/png/CO.png).
-- I'm a student of Computer Science at [EAFIT University](https://www.eafit.edu.co/ "EAFIT University Page").
+- I'm a Computer Science student at [EAFIT University](https://www.eafit.edu.co/ "EAFIT University Page").
 
 ## Languages
 - Spanish, native language.
