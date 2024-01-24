@@ -26,7 +26,7 @@ This is a list of the tools and technologies that I have learned and used in my 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,cpp,java,python,django,html,css,javascript,nodejs,idea,mongodb,mysql,vscode,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,cpp,java,python,django,html,css,javascript,nodejs,idea,mongodb,mysql,postgresql,vscode,arduino" />
   </a>
 </p>
 
