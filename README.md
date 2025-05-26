@@ -1,41 +1,89 @@
-<h1 align="center">Hi, I'm Juan Felipe Restrepo Buitrago 👋</h1>
+<h1 align="center">Hi there 👋, I'm Juan Felipe Restrepo Buitrago</h1>
+<h3 align="center">a.k.a. Pipe — Passionate Computer Science Student from Medellín, Colombia 🇨🇴</h3>
 
 [![](https://visitcount.itsvg.in/api?id=JuanFelipeRestrepoBuitrago&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-# About me
-<img align="right" alt="coding" width="180" src="pexels-negative-space-97077.jpg"></img>
-- My name is Juan Felipe Restrepo Buitrago.
-- I like to be called Pipe.
-- I'm from Medellín, Colombia [![](https://github.com/yammadev/flag-icons/blob/master/png/CO.png)](https://es.wikipedia.org/wiki/Colombia).
-- I'm a Computer Science student at [EAFIT University](https://www.eafit.edu.co/ "EAFIT University Page").
+---
 
-## Languages
-- Spanish, native language.
-- English, B1 level.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213887908-5c6d8efb-5f2d-4dd3-92b4-0a66b4a2ce31.gif" width="280" />
 
-# Socials
+### 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-restrepo-buitrago-915618246) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pipe_restrepo903/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075909260924)
+- 💬 You can call me **Pipe**
+- 🏙️ I'm from **Medellín, Colombia**
+- 🎓 Computer Science student at [**EAFIT University**](https://www.eafit.edu.co/)
+- 💡 Interested in **IoT, Cloud, DevOps, and Smart Automation**
+- 🌱 Currently learning **Flutter and Dart**
 
+---
 
-# Skills and Tools
+### 🧰 Skills & Tools
+#### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,dart" />
+</p>
 
-This is a list of the tools and technologies that I have learned and used in my projects. Some of them are in the process of learning.
+#### Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nextjs,flutter,nodejs" />
+</p>
+
+#### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+#### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,nginx,vscode,aws,raspberrypi" />
+</p>
+
+#### Other Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,regex" />
+</p>
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,cpp,java,python,django,html,css,javascript,nodejs,idea,mongodb,mysql,postgresql,vscode,arduino" />
+  <a href="https://www.linkedin.com/in/juan-felipe-restrepo-buitrago-915618246" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pipe_restrepo903/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100075909260924" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
-# Stats
+---
 
-![Juan Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanFelipeRestrepoBuitrago&show_icons=true&theme=cobalt&rank_icon=github)
+### 📊 GitHub Stats
 
-[![Pipe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PipeRtpo04&theme=cobalt)](https://wakatime.com/@PipeRtpo04)
+![](https://github-readme-stats.vercel.app/api?username=JuanFelipeRestrepoBuitrago&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipeRestrepoBuitrago&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanFelipeRestrepoBuitrago&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanFelipeRestrepoBuitrago&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipeRestrepoBuitrago&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&layout=compact)
 
-![Juan Felipe's GitHub Total Stats](https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipeRestrepoBuitrago&theme=cobalt&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PipeRtpo04&theme=tokyonight&layout=compact" width="48%>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipeRestrepoBuitrago&theme=cobalt&langs_count=6&layout=pie)
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JuanFelipeRestrepoBuitrago&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### 📫 Contact
+
+Interested in **IoT, automation, open-source projects**, or just want to chat about code, coffee, or life in Medellín? Reach out on [LinkedIn](https://www.linkedin.com/in/juan-felipe-restrepo-buitrago-915618246), [Gmail](mailto:jfeliperestrepob@gmail.com) or [Instagram](https://www.instagram.com/pipe_restrepo903/).
+
+---
+
+> *“Code smarter, automate faster, and always keep learning.”*
