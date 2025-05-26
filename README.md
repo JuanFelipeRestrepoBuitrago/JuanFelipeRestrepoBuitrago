@@ -20,22 +20,22 @@
 ### 🧰 Skills & Tools
 #### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,dart" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,r,js,ts,html,css,dart,md" />
 </p>
 
 #### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nextjs,flutter,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nextjs,flutter,nodejs,react,bootstrap,django" />
 </p>
 
 #### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,nginx,vscode,aws,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,linux,ubuntu,docker,nginx,vscode,aws,raspberrypi" />
 </p>
 
 #### Other Technologies
